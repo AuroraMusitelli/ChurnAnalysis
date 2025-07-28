@@ -6,4 +6,4 @@ Team project aimed at performing a churn analysis for Orange Telecom, predicting
 
 [R Code Script (code.R)](https://github.com/AuroraMusitelli/ChurnAnalysis/blob/main/ChurnAnalysis.Rmd)
 
-📎 Tags: Churn Analysis | Different models implemented: Tree, Random Forest, Neural Networks
+📎 Tags: Churn Analysis | Tree | Random Forest | Neural Networks
