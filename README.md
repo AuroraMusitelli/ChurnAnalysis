@@ -1,2 +1,9 @@
-# ChurnAnalysis
-Computational Statistics Churn Analysis
+**📄Computational Statistics: Churn Analysis**
+
+Team project aimed at performing a churn analysis for Orange Telecom, predicting whether a customer will stay with the company or leave. 
+
+[Churn Analysis (Italian version)](https://github.com/AuroraMusitelli/Portfolio/blob/main/ChurnAnalysis.pdf)
+
+[R Code Script (code.R)](https://github.com/AuroraMusitelli/Portfolio/blob/main/ChurnAnalysis.Rmd)
+
+📎 Tags: Churn Analysis | Different models implemented: Tree, Random Forest, Neural Networks
